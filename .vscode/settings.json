@@ -1,0 +1,12 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/tsconfig.json"],
+      "url": "https://json.schemastore.org/tsconfig"
+    },
+    {
+      "fileMatch": ["/perttierrc.json"],
+      "url": "https://json.schemastore.org/prettierrc"
+    }
+  ]
+}
